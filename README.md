@@ -44,7 +44,7 @@ Usage of teisatsu:
   -bot
         Start Discord Bot.
   -config string
-        Configuration file for API Keys, etc (default "/home/jattboe/go/src/github.com/jattboe/teisatsu/config/config.yaml")
+        Configuration file for API Keys.
   -domain string
         Domain for SubEnum.
   -eps
